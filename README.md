@@ -8,5 +8,12 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ##Deployment
-to deploy
+to deploy and use
+
 ##how to contribute
+to contribute
+
+##github file
+this is a file 
+##END
+this is the end of file

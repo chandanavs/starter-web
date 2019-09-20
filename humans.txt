@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+     Chandana   vschandana98@gmail.com  @vschandana
     <name> -- <role> -- <twitter>
 
 # THANKS

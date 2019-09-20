@@ -11,7 +11,7 @@ Sample website with plenty of files for demos
 to deploy and use
 
 ##how to contribute
-to contribute
+Please fork this repo and issue pull request
 
 ###Copyright
 

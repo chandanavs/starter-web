@@ -13,7 +13,6 @@ to deploy and use
 ##how to contribute
 to contribute
 
-##github file
-this is a file 
-##END
-this is the end of file
+###Copyright
+
+2019 Git.training

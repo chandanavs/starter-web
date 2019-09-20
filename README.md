@@ -1,6 +1,6 @@
 # Starter Web Project
 This is a simple web project
-Rebasing
+Rebasing,add more info
 ##Introduction
 This repository is for showing how Git and GitHub work
 
